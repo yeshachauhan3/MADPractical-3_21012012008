@@ -1,5 +1,10 @@
 # MADPractical-3_21012012008
 
+AIM- Create following UI by using ConstraintLayout, LinearLayout, in one android Application. Create two activities for each layout & use BottomNavigationBar & Explicit
+ Intent to  move from one activity to another activity. Don't use LinearLayout in
+ ConstraintLayout and vice versa.
+
+
 --> Login UI
 
 ![image](https://user-images.githubusercontent.com/110628046/191343209-06123509-af0e-4282-bb39-8ec02e849019.png)
